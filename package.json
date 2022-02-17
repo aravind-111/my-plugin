@@ -1,7 +1,7 @@
 {
   "name": "my-plugin-aravind",
-  "version": "1.0.1",
-  "description": "Removes all spaces from a string",
+  "version": "1.0.2",
+  "description": "GrapesJs custome plugin",
   "license": "MIT",
   "repository": "Aravindan-111/my-plugin",
   "main": "index.js",
